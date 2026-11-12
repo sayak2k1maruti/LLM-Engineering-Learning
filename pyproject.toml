@@ -1,0 +1,13 @@
+[project]
+name = "ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.31.0",
+    "openrouter>=1.3.144",
+]
+
+[tool.uv.workspace]
+members = ["blog_generator"]

@@ -1,0 +1,47 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1020707,
+  "imdb_id": "tt11340822",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "\u09a4\u09ac\u09c1 \u0985\u09aa\u09b0\u09bf\u099a\u09bf\u09a4",
+  "overview": "A married couple who start on the wrong side and detest each other eventually grow close and learn to appreciate and love each other.",
+  "popularity": 0.1444,
+  "poster_path": "/jG5E4mVVZOJbso6YeWbXmwOTBoB.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2016-09-02",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "\u09ac\u09be\u0982\u09b2\u09be"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tobu Aporichito",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1
+}
